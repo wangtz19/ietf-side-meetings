@@ -11,19 +11,23 @@ Large language models (LLMs), exemplified by GPT, have achieved remarkable perfo
 
 ## Agenda
 * [2 minutes] Opening
-* [15 minutes] Talk 1 (onsite)
-  * Topic: LLM for Networking: an Overview
+* [15 minutes] LLM for Networking: an Overview
   * Speaker: Xiaohui Xie (Tsinghua University)
-* [15 minutes] Talk 2 (remote)
-  * Topic: Using Machine Learning and Word Embedding to Characterise the DDoS landscape with DDoS2Vec
+  * Abstract: The emergence of large language models (LLMs) has brought new solutions to tasks in the field of networking. LLMs can assist networking tasks in providing interpretability, generating configuration strategies, and invoking tools. In this report, we will introduce the background of LLMs, some attempts of applying LLMs in the networking domain, and an attempt to propose an abstract framework. Challenges and future research directions will also be discussed.
+* [15 minutes] Using Machine Learning and Word Embedding to Characterise the DDoS landscape with DDoS2Vec
   * Speaker: Ravjot Singh Samra (University of Waikato)
-* [15 minutes] Talk 3 (onsite)
-  * Topic: Thinking and Practice: LLM for Cybersecurity
+  * Abstract: 
+* [15 minutes] Thinking and Practice: LLM for Cybersecurity
   * Speaker: Linzhe Li (Beijing Zhongguancun Lab)
-* [15 minutes] Talk4 (onsite)
-  * Topic: Exploiting AI-planning and NLP for Achieving Autonomous Network Reconfiguration
-  * Angela María Rodríguez (Comfacauca University Corporation)
-* [15 minutes] Talk5 (remote)
-  * Topic: Usecases of AI for Network
+  * Abstract: Large model technology is an accelerator of the technological revolution in the cybersecurity industry. This presentation will introduce the architecture and key technologies of a large model of the future network security industry. Some practice and the possible applications of LLM in the field of cybersecurity will also be mentioned.
+* [15 minutes] Exploiting AI-planning and NLP for Achieving Autonomous Network Reconfiguration
+  * Speaker: Angela María Rodríguez (Comfacauca University Corporation)
+  * Abstract: Realizing autonomic network reconfiguration is pivotal for achieving self-driving networks. Our approaches ATRAP and NORA introduce a tenant-oriented architecture based on the monitor-analyze-plan-execute-knowledge method (MAPE-K loop) and automated planning (AP) for computing 5G/6G network reconfiguration plans autonomously. NORA uses Natural Language Processing to transform network management policies expressed by the network slice tenants in pure natural language into the goals of an AP-problem (AP-goals). Templates are used to combine such AP-goals with both, the current network status and available reconfiguration actions, and come up with a reconfiguration plan that turns the network from a source -undesired- configuration into a target configuration.
+* [15 minutes] Usecases of AI for Network
   * Speaker: Xiaoqiu Zhang (China Mobile)
-* [30 minutes] Free Discussion (Several open questions will be provided soon)    
+  * Abstract: The AI-driven network will become an important direction for the future evolution of networks. This presentation will provide a brief overview of some usecases for AI in networks, particularly in the areas of AI for network services, operations and self-learning. Furthermore, we aim to build an AI-driven IP network architecture.
+* [20 minutes] Free Discussion (Several open questions will be provided soon)
+
+## Related work
+* DDoS detection with machine learning
+  * https://www.researchgate.net/publication/376023189_DDoS2Vec_Flow-Level_Characterisation_of_Volumetric_DDoS_Attacks_at_Scale 
